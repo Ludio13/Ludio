@@ -1,0 +1,47 @@
+﻿@page "/CadastroAlunos"
+
+<h1>Cadastro de alunos</h1>
+<div class="formulario">
+    <label>RA:</label>
+    <input type="number" class="campos" id="campoRA" @bind="RA" />
+    <p></p>
+    <label>Nome:</label>
+    <input type="text" class="campos" id="campoNome" @bind="nome" />
+    <p></p>
+    <label>Data de nascimento:</label>
+    <input type="date" class="campos" id="campoDataNascimento" @bind="dataDeNascimento" />
+    <p></p>
+    <label>CPF:</label>
+    <input type="number" class="campos" id="campoCPF" @bind="cpf" />
+    <p></p>
+    <label>CEP:</label>
+    <input type="number" class="campos" id="campoCEP" @bind="cep" />
+    <p></p>
+    <label>Telefone:</label>
+    <input type="number" class="campos" id="campoTelefone" @bind="telefone" />
+    <p></p>
+    <label>Endereço:</label>
+    <input type="text" class="campos" id="campoEndereco" @bind="endereco" />
+    <p></p>
+    <label>Cursos matriculado:</label>
+    <input type="text" class="campos" id="campoCursosMatriculado" @bind="cursosMatriculado" />
+
+
+</div>
+<div>
+    <button class="btnCadastrar">Cadastrar</button>
+</div>
+
+
+@code {
+    int RA;
+    string nome;
+    DateTime dataDeNascimento;
+    int cpf;
+    int cep;
+    int telefone;
+    string endereco;
+    string Pai;
+    string Mae;
+    string cursosMatriculado;
+}

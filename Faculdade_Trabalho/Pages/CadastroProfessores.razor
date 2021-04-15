@@ -1,0 +1,85 @@
+﻿@page "/CadastroProfessores"
+
+<h1>Cadastro Professores</h1>
+<div class="formulario">
+    <label>RA:</label>
+    <input type="number" class="campos" id="campoRA" @bind="RA"/>
+    <p></p>
+    <label>Nome:</label>
+    <input type="text" class="campos" id="campoNome" @bind="nome"/>
+    <p></p>
+    <label>Data de nascimento:</label>
+    <input type="date" class="campos" id="campoDataNascimento"  @bind="nascimento"/>
+    <p></p>
+    <label>CPF:</label>
+    <input type="number" class="campos" id="campoCPF"  @bind="cpf"/>
+    <p></p>
+    <label>Telefone:</label>
+    <input type="number" class="campos" id="campoTelefone"  @bind="telefone"/>
+    <p></p>
+    <label>Endereço:</label>
+    <input type="text" class="campos" id="campoEndereco"  @bind="endereco"/>
+    <p></p>
+    <label>Salário:</label>
+    <input type="number" class="campos" id="campoSalario"  @bind="salario"/>
+    <p></p>
+    <label>Grau de instrução:</label>
+    <input type="text" class="campos" id="campoGrau"  @bind="grau"/>
+    <p></p>
+    <label>Formação:</label>
+    <input type="text" class="campos" id="campoFormacao"  @bind="formacao"/>
+    <p></p>
+    <label>Cursos lecionados:</label>
+    <input type="text" class="campos" id="campoCursosLecionados"  @bind="cursosLecionados"/>
+
+</div>
+<div>
+    <button class="btnCadastrar" @onclick="CadastrarProfessor">Cadastrar</button>
+</div>
+
+
+@code {
+    [Parameter] public EventCallback CadastrarProfessor { get; set; }
+
+
+    int RA;
+    string nome;
+    DateTime nascimento;
+    int cpf;
+    int telefone;
+    string endereco;
+    float salario;
+    string grau;
+    string formacao;
+    string cursosLecionados;
+
+
+
+    public Professor NovoProfessor()
+    {
+        Professor novoProfessor = new Professor();
+
+        novoProfessor.RA = RA;
+        novoProfessor.nome = nome;
+        novoProfessor.dataDeNascimento = nascimento;
+        novoProfessor.CPF = cpf;
+        novoProfessor.telefone = telefone;
+        novoProfessor.endereco = endereco;
+        novoProfessor.salario = salario;
+        novoProfessor.grau = grau;
+        novoProfessor.formacao = formacao;
+        novoProfessor.cursosLecionados = cursosLecionados;
+
+
+        return novoProfessor;
+    }
+
+    public void Cadastrar()
+    {
+
+        Professor novoProfessor = NovoProfessor();
+       
+         
+    }
+
+}

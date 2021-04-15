@@ -1,0 +1,36 @@
+﻿@page "/CadastroCursos"
+
+<h1>Cadastro de cursos</h1>
+<div class="formulario">
+    <label>Código do curso:</label>
+    <input type="number" class="campos" id="campoCodigo" @bind="codigoCurso" />
+    <p></p>
+    <label>Nome do curso:</label>
+    <input type="text" class="campos" id="campoNome" @bind="nomeCurso" />
+    <p></p>
+    <label>Descrição:</label>
+    <input type="text" class="campos" id="campoDescricao" @bind="descricaoCurso" />
+    <p></p>
+    <label>Tempo de curso(periodos):</label>
+    <input type="number" class="campos" id="campoTempo" @bind="tempoCurso" />
+    <p></p>
+    <label>Mensalidade:</label>
+    <input type="number" class="campos" id="campoMensalidade" @bind="mensalidadeCurso" />
+    <p></p>
+    <label>Turno:</label>
+    <input type="text" class="campos" id="campoTurno" @bind="turnoCurso" />
+
+
+</div>
+<div>
+    <button class="btnCadastrar">Cadastrar</button>
+</div>
+
+@code {
+    int codigoCurso;
+    string nomeCurso;
+    string descricaoCurso;
+    int tempoCurso;
+    float mensalidadeCurso;
+    int turnoCurso;
+}

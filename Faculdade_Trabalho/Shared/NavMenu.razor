@@ -1,0 +1,67 @@
+﻿<div class="top-row pl-4 navbar navbar-dark">
+    <a class="navbar-brand" href="">Faculdade_Trabalho</a>
+    <button class="navbar-toggler" @onclick="ToggleNavMenu">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <ul class="nav flex-column">
+
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="PesquisarAluno">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Pesquisar Alunos
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Cursos">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Pesquisar Cursos
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="PesquisarProfessor">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Pesquisar professor
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="PesquisarFuncionario">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Pesquisar Funcionario
+            </NavLink>
+        </li>
+
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="CadastroProfessores">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Cadastro de professor
+            </NavLink>
+        </li>
+
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="CadastroFuncionarios">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Cadastro Funcionarios
+            </NavLink>
+        </li>
+
+
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="CadastroCursos">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Cadastro de Curso
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="CadastroAlunos">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Cadastro Alunos
+            </NavLink>
+        </li>
+    </ul>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

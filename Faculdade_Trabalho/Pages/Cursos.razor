@@ -1,0 +1,110 @@
+﻿@page "/Cursos"
+<h1>Cursos</h1>
+
+<div >
+    <label>Curso</label>
+    <select id="CursoSelecionado" name="selecaoCurso" @bind="valueOption" @onclick="Update">
+        @foreach (Curso curso in listaDeCursos)
+        {
+            <option value="@curso.nomeCurso">@curso.nomeCurso</option>
+        }
+
+    </select>
+    <p></p>
+    <label>Código do curso: </label>
+    <label id="labelDoCodigo">@codigo</label>
+    <p></p>
+    <label>Nome do curso: </label>
+    <label id="labelNomeCurso">@nome</label>
+    <p></p>
+    <label>Descrição do curso: </label>
+    <label id="labelDecricao">@descricao</label>
+    <p></p>
+    <label>Tempo do curso: </label>
+    <label id="labelTempoCurso">@tempoCurso</label>
+    <p></p>
+    <label>Mensalidade do curso: </label>
+    <label id="labelMensalidadeCurso">@mensalidade</label>
+    <p></p>
+    <label>Turnos do curso: </label>
+    <label id="labelTurnos">@turnos</label>
+
+</div>
+
+<div>
+    <button @onclick="AddUmCursoTeste">Adicionar cursos</button>
+</div>
+
+
+@code {
+
+    List<Curso> listaDeCursos = new List<Curso>();
+    Curso cursoSelecionado = new Curso();
+
+    public string valueOption = "Arquitetura e Urbanismo";
+
+
+    public string codigo;
+    public string nome;
+    public string descricao;
+    public string tempoCurso;
+    public string mensalidade;
+    public string turnos;
+
+    //metodo para adicionar um curso teste para a lista de cursos DELETAR DEPOIS DE INTEGRAR COM O BANCO
+    public void AddUmCursoTeste()
+    {
+        Curso cursoTeste = new Curso {
+            codigoCurso = 45123,
+            nomeCurso = "Arquitetura e Urbanismo",
+            descricaoCurso = "Descrição do curso de arquitetura",
+            tempoCurso = 5,
+            mensalidadeCurso = 2150.45f,
+            turnoCurso = 10 };
+
+        Curso cursoTeste2 = new Curso
+        {
+            codigoCurso = 23895,
+            nomeCurso = "Psicologia",
+            descricaoCurso = "Descrição do curso de psicologia",
+            tempoCurso = 4,
+            mensalidadeCurso = 1320.20f,
+            turnoCurso = 8
+        };
+        listaDeCursos.Add(cursoTeste);
+        listaDeCursos.Add(cursoTeste2);
+
+
+    }
+
+    //metodo para atualizar as informações visuais da pagina a respeito do curso
+    public void Update()
+    {
+        Curso curso = listaDeCursos.Find(c => c.nomeCurso == valueOption);
+
+
+        if (curso != null)
+        {
+            codigo = curso.codigoCurso.ToString();
+            nome = curso.nomeCurso;
+            descricao = curso.descricaoCurso;
+            tempoCurso = $"{curso.tempoCurso} Anos";
+            mensalidade = $"R$ {curso.mensalidadeCurso}";
+            turnos = $"{curso.turnoCurso} Turnos";
+        }
+        else
+        {
+            codigo = "";
+            nome = "";
+            descricao = "";
+            tempoCurso = "";
+            mensalidade = "";
+            turnos = "";
+
+        }
+
+
+    }
+
+
+}

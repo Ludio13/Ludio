@@ -1,0 +1,90 @@
+﻿@page "/CadastroFuncionarios"
+
+<h1>Cadastro Funcionario</h1>
+<div class="formulario">
+    <label>RA:</label>
+    <input type="number" class="campos" id="campoRA" @bind="RA" />
+    <p></p>
+    <label>Nome:</label>
+    <input type="text" class="campos" id="campoNome" @bind="nome" />
+    <p></p>
+    <label>Data de nascimento:</label>
+    <input type="date" class="campos" id="campoDataNascimento" @bind="nascimento" />
+    <p></p>
+    <label>CPF:</label>
+    <input type="number" class="campos" id="campoCPF" @bind="cpf" />
+    <p></p>
+    <label>Telefone:</label>
+    <input type="number" class="campos" id="campoTelefone" @bind="telefone" />
+    <p></p>
+    <label>Endereço:</label>
+    <input type="text" class="campos" id="campoEndereco" @bind="endereco" />
+    <p></p>
+    <label>Salário:</label>
+    <input type="number" class="campos" id="campoSalario" @bind="salario" />
+    <p></p>
+    <label>Grau de instrução:</label>
+    <input type="text" class="campos" id="campoGrau" @bind="grau" />
+    <p></p>
+    <label>Formação:</label>
+    <input type="text" class="campos" id="campoFormacao" @bind="formacao" />
+    <p></p>
+    <label>Setor:</label>
+    <input type="text" class="campos" id="camposetor" @bind="setor" />
+    <label>cargo:</label>
+    <input type="text" class="campos" id="campocargo" @bind="cargo" />
+    <label>chefe:</label>
+    <input type="text" class="campos" id="campochefe" @bind="chefe" />
+
+</div>
+<div>
+    <button class="btnCadastrar" @onclick="CadastrarFuncionario">Cadastrar</button>
+</div>
+
+
+@code { [Parameter] public EventCallback CadastrarFuncionario { get; set; }
+
+
+    int RA;
+    string nome;
+    DateTime nascimento;
+    int cpf;
+    int telefone;
+    string endereco;
+    float salario;
+    string grau;
+    string formacao;
+    string setor;
+    string cargo;
+    string chefe;
+
+
+    public Funcionarios NovoFuncionario()
+    {
+        Funcionarios novofuncionario = new Funcionarios();
+
+        novofuncionario.RA = RA;
+        novofuncionario.nome = nome;
+        novofuncionario.dataDeNascimento = nascimento;
+        novofuncionario.CPF = cpf;
+        novofuncionario.telefone = telefone;
+        novofuncionario.endereco = endereco;
+        novofuncionario.salario = salario;
+        novofuncionario.grau = grau;
+        novofuncionario.formacao = formacao;
+        novofuncionario.setor = setor;
+        novofuncionario.cargo = cargo;
+        novofuncionario.chefe = chefe;
+
+
+        return novofuncionario;
+    }
+
+    public void Cadastrar()
+    {
+
+        Funcionarios novoFuncionario = NovoFuncionario();
+
+
+    } }
+

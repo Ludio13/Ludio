@@ -1,0 +1,1288 @@
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\Faculdade_Trabalho.StaticWebAssets.xml
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\Faculdade_Trabalho.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\ref\Faculdade_Trabalho.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\Faculdade_Trabalho.pdb
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Faculdade_Trabalho.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Faculdade_Trabalho.pdb
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.2.js.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.2.js
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.AssemblyInfoInputs.cache
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.AssemblyInfo.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.RazorComponent.input.cache
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.RazorComponent.output.cache
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Faculdade_Trabalho.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.TagHelpers.input.cache
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.TagHelpers.output.cache
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.RazorCoreGenerate.cache
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\LszNzyOD.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ar+7qB3D.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\rDsAlUq1.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\U49INA9x.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\m03WaCTY.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\bPhZb0QM.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\iDW+jnVR.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\tauJ6c8m.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\EwWpNGOT.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Vsi+8+41.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+Y8HtOXU.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\gIBwYDES.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\tYI+VB3D.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\lEMU3757.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\MKG+Sney.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\1E2GNEsp.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\l2bwj6gM.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\cjKnz3bO.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\BovOdXGb.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\MDlLF1C0.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\UQvORyI2.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\sth4m2c0.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\R2h+R2Vy.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\89cLSPWr.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\uNnuObay.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\oqXzkIKO.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\wB7B49l5.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\oxfQY3gZ.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\VrYX5y4G.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\7DA22g5H.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\EVvT3eX8.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Q2oYWgWG.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\psoJ+62Y.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\G1utWrqh.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Qkbk0iwN.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Bzi15RCi.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\HrvWqWaY.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\fW1eSt+z.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\86URJMgO.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Ofpfpxcc.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\X++00MCb.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\FEKIPKEW.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\vpp9ik+V.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\fTd3zaNC.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\YliWHdTq.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+Je+FZHr.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\RLbtm+rP.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\y5hbTVw1.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\PWoBiL5s.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\z6VP3ZMZ.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\IxdR6cLZ.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\DmlFrmMI.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\yN7VerPW.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\nR3wWLcY.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Fq9ziF+K.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\8ofekQdV.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\faohbjDJ.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\m+Gf6J3u.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\2VlfGwg7.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\SGKJvOfN.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\wKXb+RML.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\DZg0Gu6l.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\iTUtghOe.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\eN9WZC7I.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+QRfrkzD.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\BU8Fk3m7.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\DYL7v+AV.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\hWSzVaE5.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\dFKkg3dx.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\uy+mBWDP.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\kgFpZ+ed.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\KoQpQSp4.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\9rurNNVF.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ih6qa9Y+.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\E62vVbsE.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\V0NZlUG2.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\nNB5ENUr.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\O4wyhKCg.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\TpjzxZZY.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\qI6eDkSi.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\LLw2WBxG.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\8uuqZK5w.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\JnTEx+hK.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ih5tab4B.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\4sZbEnt2.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Im+gpuiC.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\5QfPcxTZ.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\vgW1+FRM.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\pLl+gRLK.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\f7BlIJMO.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\E+j7vfif.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\KMVqPZWY.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\6egUm6WB.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\fkfOy4FO.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\YrWcRsvi.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\J5adDWkU.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\pUixCC0+.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\J6fKjXXa.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\BhsQbbA8.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\fyvSH0sR.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\pN41Hg95.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\2+vY4PP+.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ua4cY+Dc.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\bXSloIt+.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+gQRHtZh.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\etuFhrKi.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\5D6h2Yix.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\GsMkbOoD.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\u1+qULRe.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\5U9gA5wK.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\bSOwq9ts.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Y+VqFEXW.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\pMU6htly.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\UcfqwUbK.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\8rwR6Z+9.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\RwBsCmQ+.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\q2WsHE8w.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\0qdlKWmH.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\z08w4znl.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\TK21xjXA.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\R0dzx6ha.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\QdpFuTEY.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\FjfAtm84.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\xDEbWiJ8.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\jXWrS4oT.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\7otfo++d.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\V1Kis++7.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\q9t8v7bv.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\TerZF5AX.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\azBMBbQt.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\8NNUgDr6.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\h9MQpS6N.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\OcfJZXCs.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\emsNotAl.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\MNhUTYVC.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\1+Tp6jZQ.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\0fRqbFbn.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\SzBwDJyX.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\OhcTbkj8.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Un0Qu7EP.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\fE+6dQRY.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\QYtW5D0+.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\h6duShb4.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\nK6fqg8d.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\AdcJoW3Q.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\gm2V5X+S.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Is5wvb0K.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\JaVp99we.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ZyMoM539.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\gYeHbu+e.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\8vbb469n.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\S2k7CXhV.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\WlwPNCvh.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\uHmx2PqJ.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\i0EbgtPD.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\W+vOmAF9.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\AxwZQlCU.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\0fLj5LkS.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\NCJAHB3b.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Fi8+S4W8.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\1CLmk752.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\S4e22gRe.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\2T06I2LC.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ZZzDrk0W.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\mRA8Hg+Q.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\aO5DOCa0.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\O+ZEnoIl.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\EY+u0uAm.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\AS2lxLUc.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\sU5i4OQ0.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\cDspEIvV.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\zAzLdQNQ.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\nwizezqo.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\lrL6gCfT.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\LmGKGTmn.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\bEyDM61c.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\oBzHttbC.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\FbAneujO.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\xR5E7ufV.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+NUgnpbU.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\gzROqCUP.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\bst6lzCi.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\TG3V2rKB.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\G5mi39hG.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\QYG2KrNW.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Oonc5Vkq.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\DojiW1WA.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\zP87d0DB.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\PQJFAnO8.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ydNFbfDJ.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\yz74m2Nv.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\nLcD6IzS.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\f6Il373I.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\JRi5u7Ro.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\jIy18xs7.gz
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\staticwebassets\Faculdade_Trabalho.StaticWebAssets.Manifest.cache
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\staticwebassets\Faculdade_Trabalho.StaticWebAssets.xml
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\scopedcss\bundle\Faculdade_Trabalho.styles.css
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\scopedcss\projectbundle\Faculdade_Trabalho.bundle.scp.css
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.RazorTargetAssemblyInfo.cache
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.csproj.CopyComplete
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\ref\Faculdade_Trabalho.dll
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.pdb
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.csprojAssemblyReference.cache
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\Cursos.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\Cursos.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\PesquisarProfessor.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\PesquisarProfessor.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Shared\SalvamentoListas.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Shared\SalvamentoListas.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\CadastroProfessores.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\CadastroProfessores.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\CadastroAlunos.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\CadastroCursos.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\PesquisarAluno.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\CadastroAlunos.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\CadastroCursos.razor.g.cs
+C:\Users\luanm\source\repos\Faculdade_Trabalho\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\PesquisarAluno.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\Faculdade_Trabalho.StaticWebAssets.xml
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\Faculdade_Trabalho.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\ref\Faculdade_Trabalho.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\Faculdade_Trabalho.pdb
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Faculdade_Trabalho.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Faculdade_Trabalho.pdb
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.4.js.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.4.js
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.RazorComponent.input.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\CadastroAlunos.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\CadastroCursos.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\CadastroProfessores.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\Cursos.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\PesquisarAluno.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\PesquisarProfessor.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Shared\SalvamentoListas.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.RazorComponent.output.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Faculdade_Trabalho.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.TagHelpers.input.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.TagHelpers.output.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.RazorCoreGenerate.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\CadastroAlunos.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\CadastroCursos.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\CadastroProfessores.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\Cursos.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\PesquisarAluno.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\PesquisarProfessor.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Shared\SalvamentoListas.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\RL2tiLWa.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ih9NToCa.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\jvRVUuh2.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\1C89PPvq.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\6fiD57o5.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\y1oG3Cwv.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\aUcCGCcy.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\e4DNRnbh.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\57A4tn+Y.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Eg6UTZQC.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\5eeRgFej.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\w6IFLxZ6.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\YzjExJsJ.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Lf3544IT.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\iENhL5qb.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\OKYWWAlK.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\fjnmsoZn.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\7EcU9L8k.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\zJ+jjhdX.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\TiMirE3U.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+dh3fD7B.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\DMMLVuH6.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\y6CrepWB.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\7znNc0to.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\T07NBf+5.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\66LYNAc+.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\OEO+q3aV.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\YamFrqBT.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\9YOIX0tF.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\6VEf0QCU.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\aUMy4j7f.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\L11iKngL.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\42Uvbjt+.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\kb3dmT35.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\qGUwbIiL.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\FYWXTvIR.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\8vzagHEd.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\GgRaMzV4.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\JowY0go0.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Kf20woTs.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\mwifsGb2.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\peXEguxL.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\CvBfyibo.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+plAjuLs.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\vf01SPpB.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\UnLXoVvc.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\huA6C6mc.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\yHRLfZsb.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\8avvgj+B.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+4jOuQab.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\9R1wZ6Vq.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+ALsE9ji.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\OkyHtWzX.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\cMHcJcgt.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\6w9on+8K.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\0hiu0g9s.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Iyyoitho.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\XW4ldFXP.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\fV+rYyS+.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\I0N8wnp+.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\3fIzJqeq.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\eLQC2Kfo.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ZXFEc7EF.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\gtJQxFyY.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\mfPiZZ8q.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\3Zz3uBmi.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\TAEzlQED.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\S55JVpV5.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\6nPwfsE7.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\nWJXlkv1.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\MX08qKK+.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\gs+TSpQm.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\YsAueTz0.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\qVfK+5TO.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\jYWlUMEo.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\PZJqUvH7.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\LKH7d8nP.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\6wz9aYFD.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\56fVoIKF.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\3xvC6QcW.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\NdOkCdkb.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\bVEbenQc.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\AuoeyoNr.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\NXaVXviS.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\W2wCCcfo.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\qvn62ipr.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\XZSxpNv4.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\DT1ARiS2.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ltyTEtkd.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\DLMhk2uQ.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\8oJdGHVO.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\731tcr+P.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\35O+W5Q2.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\rKcbf1Xu.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\wp58FCRL.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\NapQzu+M.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\3WPKPMK0.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\4uCaXvVI.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ijU+NFtu.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ZXD55RNn.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\KU+fqkNd.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+3bsNNwO.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\tcPTG0Jn.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ruOPjXqU.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\yPlTnifz.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\sYhnwIqM.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+MNeBt0D.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\uGucNOuS.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\hb7Lc5dt.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\njTpnT67.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\nUE+Bj0F.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\16gDexJI.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ZB50rJ2Y.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\WyvK3sGh.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+U+8karE.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\yeInDMHa.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Xu3cu8+s.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\4e+rwAVQ.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\BdWPszTQ.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\YxZqSokV.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\c9jM0aDU.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\sA8wddAF.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\xVstmig0.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Bsr+BXLy.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\NE8Pa9aY.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\hNG+XMIk.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\3AHH8lme.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\UMbgIokN.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ySr+mdQU.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\07yDwBv6.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Uc1m0S2n.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\TrykI0dM.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\IkYDEj1d.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\t7zkwTef.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\SQ92M+zv.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Lw+dsJf1.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\T27GPvsT.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\XPkZ+aBB.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\jVo81jk2.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\L1Dt+1b7.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\q8uChF6+.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\e3Mf5jbs.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\NHFYIY+Q.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ZBcMRbKW.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Ku5bQD2M.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\m7UEza70.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\+xpD3iLr.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\MEi4LMPz.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\012EDrL4.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\w4d58mcE.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\t7lLDhY3.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Uh9THrx1.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\6T8ISlJH.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ySoHBhBn.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\XRnLrHKO.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\cHOg+9MF.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ewod5hqI.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\myY1fWk3.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\MU8USmkU.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\I2W0lw26.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\UKNlSFGF.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\zNc0Q+P+.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\roTwJ5Oi.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\sQgmujIp.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\pRjGSGMh.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\zCTRg5dB.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\0JeEGGJG.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\PTsq139f.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ea6+HPed.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\YHben7Ak.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\8JfNx8pv.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\rCaa+jlq.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\GcqVZ3+I.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\4xPiak5H.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\rDMcYq+E.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\F85mlqAU.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\3p9o+1Lb.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\ri5IdTCR.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\9JvmsMfD.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\hF55gM3k.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\IKJXcWS3.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\zEDrY+aZ.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Yc2IjS+g.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\lVTiluKP.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\GutnFYll.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\5JnHrjIC.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\1zoHp7FI.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\mAYFg1Fo.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\pgxQyl+h.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\L5YzL9FI.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\RHRYybex.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\WgJ59+Lc.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\2TE36+5X.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\P5UByaZv.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\build-gz\Y4Gw0jJJ.gz
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\staticwebassets\Faculdade_Trabalho.StaticWebAssets.Manifest.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\staticwebassets\Faculdade_Trabalho.StaticWebAssets.xml
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\scopedcss\bundle\Faculdade_Trabalho.styles.css
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\scopedcss\projectbundle\Faculdade_Trabalho.bundle.scp.css
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.RazorTargetAssemblyInfo.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.csproj.CopyComplete
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\ref\Faculdade_Trabalho.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Faculdade_Trabalho.pdb
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\Funcionariosrazor.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\Funcionariosrazor.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\RazorDeclaration\Pages\PesquisarFuncionario.razor.g.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\TrabalhoBlazor\Faculdade-master\Faculdade_Trabalho\obj\Debug\net5.0\Razor\Pages\PesquisarFuncionario.razor.g.cs
